@@ -8,15 +8,15 @@
     display:flex;
 }
 .steen1 {
-    background-color:#D6315D ;
+    background-color:#B2ABF2;
     width:100px;
     height:25px;
     display:inline-block;
     margin-right:3px;
-    margin-bottom:5px;
+    margin-bottom:4px;
 }
 .steen2 {
-    background-color:#D6315D;
+    background-color:#B2ABF2;
     width:100px;
     height:25px;
     display:inline-block;
@@ -24,7 +24,7 @@
     margin-bottom:5px;
 }
 .steen3 {
-    background-color:#D6315D ;
+    background-color:#B2ABF2 ;
     width:100px;
     height:25px;
     display:inline-block;
@@ -32,7 +32,7 @@
     margin-bottom:5px;
 }
 .steen4 {
-    background-color:#D6315D ;
+    background-color:#B2ABF2 ;
     width:100px;
     height:25px;
     display:inline-block;
@@ -40,14 +40,14 @@
     margin-bottom:5px;
 }
 .steen5 {
-    background-color:#D6315D ;
+    background-color:#B2ABF2 ;
     width:70px;
     height:25px;
     display:inline-block;
     margin-bottom:5px;
 }
 .bye_bye_steen {
-    background-color:#54FF6B;
+    background-color:#1C3041;
     width:100px;
     height:25px;
     display:inline-block;
